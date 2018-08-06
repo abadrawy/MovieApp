@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_view">DetailView</string>
+
+    <string name="APIKey">9f1853aa5c43812202925ed97327a923</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="item1">Popular</string>
+    <string name="item2">Top Rated</string>
+    <string name="item3">My Favourite</string>
+    <string name="content">content</string>
+    <string name="author">author</string>
+
+
+</resources>
